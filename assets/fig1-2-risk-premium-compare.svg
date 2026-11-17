@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 445" width="1440" height="445">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="425" y="30" text-anchor="middle" font-size="24" font-weight="bold" font-family="Hiragino Sans, Yu Gothic, sans-serif">凹度が弱い</text>
+<text x="1145" y="30" text-anchor="middle" font-size="24" font-weight="bold" font-family="Hiragino Sans, Yu Gothic, sans-serif">凹度が強い</text>
+<g transform="translate(0,45)">
+<line x1="150" y1="340" x2="700" y2="340" stroke="black" stroke-width="1.5"/>
+<line x1="150" y1="340" x2="150" y2="20" stroke="black" stroke-width="1.5"/>
+<path d="M 191.2,338.5 L 193.8,331.2 L 196.4,324.3 L 199.0,317.7 L 201.6,311.6 L 204.2,305.7 L 206.8,300.0 L 209.4,294.7 L 212.0,289.5 L 214.6,284.6 L 217.2,279.9 L 219.8,275.3 L 222.4,271.0 L 225.0,266.7 L 227.6,262.6 L 230.2,258.7 L 232.8,254.9 L 235.4,251.2 L 238.0,247.6 L 240.6,244.1 L 243.2,240.7 L 245.8,237.4 L 248.4,234.2 L 251.0,231.0 L 253.6,228.0 L 256.2,225.0 L 258.8,222.1 L 261.4,219.3 L 264.0,216.5 L 266.6,213.8 L 269.2,211.2 L 271.8,208.6 L 274.4,206.1 L 277.0,203.6 L 279.6,201.1 L 282.2,198.8 L 284.8,196.4 L 287.4,194.1 L 290.0,191.9 L 292.6,189.7 L 295.2,187.5 L 297.8,185.4 L 300.4,183.3 L 303.0,181.2 L 305.6,179.2 L 308.2,177.2 L 310.8,175.3 L 313.4,173.3 L 316.0,171.4 L 318.6,169.6 L 321.2,167.7 L 323.8,165.9 L 326.4,164.2 L 329.0,162.4 L 331.6,160.7 L 334.2,159.0 L 336.8,157.3 L 339.4,155.6 L 342.0,154.0 L 344.6,152.4 L 347.2,150.8 L 349.8,149.2 L 352.4,147.7 L 355.0,146.1 L 357.6,144.6 L 360.2,143.1 L 362.8,141.7 L 365.4,140.2 L 368.0,138.8 L 370.6,137.3 L 373.2,135.9 L 375.8,134.5 L 378.4,133.2 L 381.0,131.8 L 383.6,130.5 L 386.2,129.1 L 388.8,127.8 L 391.4,126.5 L 394.0,125.2 L 396.6,124.0 L 399.1,122.7 L 401.7,121.5 L 404.3,120.2 L 406.9,119.0 L 409.5,117.8 L 412.1,116.6 L 414.7,115.4 L 417.3,114.3 L 419.9,113.1 L 422.5,111.9 L 425.1,110.8 L 427.7,109.7 L 430.3,108.6 L 432.9,107.5 L 435.5,106.4 L 438.1,105.3 L 440.7,104.2 L 443.3,103.1 L 445.9,102.1 L 448.5,101.0 L 451.1,100.0 L 453.7,98.9 L 456.3,97.9 L 458.9,96.9 L 461.5,95.9 L 464.1,94.9 L 466.7,93.9 L 469.3,92.9 L 471.9,92.0 L 474.5,91.0 L 477.1,90.0 L 479.7,89.1 L 482.3,88.2 L 484.9,87.2 L 487.5,86.3 L 490.1,85.4 L 492.7,84.5 L 495.3,83.5 L 497.9,82.6 L 500.5,81.8 L 503.1,80.9 L 505.7,80.0 L 508.3,79.1 L 510.9,78.2 L 513.5,77.4 L 516.1,76.5 L 518.7,75.7 L 521.3,74.8 L 523.9,74.0 L 526.5,73.2 L 529.1,72.3 L 531.7,71.5 L 534.3,70.7 L 536.9,69.9 L 539.5,69.1 L 542.1,68.3 L 544.7,67.5 L 547.3,66.7 L 549.9,65.9 L 552.5,65.2 L 555.1,64.4 L 557.7,63.6 L 560.3,62.9 L 562.9,62.1 L 565.5,61.4 L 568.1,60.6 L 570.7,59.9 L 573.3,59.1 L 575.9,58.4 L 578.5,57.7 L 581.1,56.9 L 583.7,56.2 L 586.3,55.5 L 588.9,54.8 L 591.5,54.1 L 594.1,53.4 L 596.7,52.7 L 599.3,52.0 L 601.9,51.3 L 604.5,50.6 L 607.0,49.9 L 609.6,49.2 L 612.2,48.5 L 614.8,47.9 L 617.4,47.2 L 620.0,46.5 L 622.6,45.9 L 625.2,45.2 L 627.8,44.6 L 630.4,43.9 L 633.0,43.3 L 635.6,42.6 L 638.2,42.0 L 640.8,41.3 L 643.4,40.7 L 646.0,40.1 L 648.6,39.5 L 651.2,38.8 L 653.8,38.2 L 656.4,37.6 L 659.0,37.0 L 661.6,36.4 L 664.2,35.8 L 666.8,35.2 L 669.4,34.6 L 672.0,34.0 L 674.6,33.4 L 677.2,32.8 L 679.8,32.2 L 682.4,31.6 L 685.0,31.0 L 687.6,30.4 L 690.2,29.8 L 692.8,29.3 L 695.4,28.7 L 698.0,28.1 L 700.6,27.6 L 703.2,27.0 L 705.8,26.4 L 708.4,25.9 L 711.0,25.3" fill="none" stroke="#1f38c5" stroke-width="3"/>
+<line x1="205" y1="304.0" x2="645" y2="40.33305071965367" stroke="#555" stroke-dasharray="6,4" stroke-width="1.5"/>
+<line x1="205" y1="340" x2="205" y2="304.0" stroke="#888" stroke-dasharray="4,4"/>
+<text x="205" y="364" text-anchor="middle" font-size="20" font-family="Times New Roman, serif" font-style="italic">c<tspan dy="5" font-size="14" font-style="normal">1</tspan></text>
+<line x1="645" y1="340" x2="645" y2="40.33305071965367" stroke="#888" stroke-dasharray="4,4"/>
+<text x="645" y="364" text-anchor="middle" font-size="20" font-family="Times New Roman, serif" font-style="italic">c<tspan dy="5" font-size="14" font-style="normal">2</tspan></text>
+<line x1="425" y1="340" x2="425" y2="110.86745050790796" stroke="#888" stroke-dasharray="4,4"/>
+<text x="425" y="364" text-anchor="middle" font-size="20" font-family="Times New Roman, serif" font-style="italic">E[c̃]</text>
+<line x1="315" y1="340" x2="315" y2="172.16652535982684" stroke="#888" stroke-dasharray="4,4"/>
+<text x="315" y="364" text-anchor="middle" font-size="20" font-family="Times New Roman, serif" font-style="italic">c°</text>
+<line x1="150" y1="110.86745050790796" x2="425" y2="110.86745050790796" stroke="#888" stroke-dasharray="4,4"/>
+<text x="144" y="116.86745050790796" text-anchor="end" font-size="16" font-family="Times New Roman, serif" font-style="italic">u(E[c̃])</text>
+<line x1="150" y1="172.16652535982684" x2="425" y2="172.16652535982684" stroke="#888" stroke-dasharray="4,4"/>
+<text x="144" y="178.16652535982684" text-anchor="end" font-size="16" font-family="Times New Roman, serif" font-style="italic">u(c°)=E[u(c̃)]</text>
+<circle cx="425" cy="172.16652535982684" r="5" fill="#c0392b"/>
+<circle cx="425" cy="110.86745050790796" r="5" fill="#1f38c5"/>
+<line x1="315" y1="204.16652535982684" x2="425" y2="204.16652535982684" stroke="#c0392b" stroke-width="2.5" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="370.0" y="196.16652535982684" text-anchor="middle" font-size="22" fill="#c0392b" font-family="Times New Roman, serif" font-style="italic">Π</text>
+<text x="695" y="330" text-anchor="end" font-size="16" font-family="Hiragino Sans, Yu Gothic, sans-serif">消費水準 <tspan font-family="Times New Roman, serif" font-style="italic" font-size="18">c</tspan></text>
+<text x="158" y="34" font-size="16" font-family="Hiragino Sans, Yu Gothic, sans-serif">効用水準</text>
+</g>
+<g transform="translate(720,45)">
+<line x1="150" y1="340" x2="700" y2="340" stroke="black" stroke-width="1.5"/>
+<line x1="150" y1="340" x2="150" y2="20" stroke="black" stroke-width="1.5"/>
+<path d="M 195.0,340 195.0,340.0 L 197.5,330.7 L 199.9,321.6 L 202.4,312.9 L 204.9,304.4 L 207.4,296.2 L 209.8,288.2 L 212.3,280.5 L 214.8,273.0 L 217.3,265.8 L 219.7,258.8 L 222.2,252.0 L 224.7,245.4 L 227.2,239.0 L 229.6,232.8 L 232.1,226.8 L 234.6,221.0 L 237.1,215.3 L 239.5,209.9 L 242.0,204.6 L 244.5,199.5 L 247.0,194.5 L 249.4,189.7 L 251.9,185.0 L 254.4,180.5 L 256.9,176.1 L 259.3,171.9 L 261.8,167.8 L 264.3,163.8 L 266.8,159.9 L 269.2,156.2 L 271.7,152.6 L 274.2,149.1 L 276.7,145.7 L 279.1,142.4 L 281.6,139.2 L 284.1,136.1 L 286.6,133.1 L 289.0,130.2 L 291.5,127.4 L 294.0,124.6 L 296.5,122.0 L 298.9,119.4 L 301.4,116.9 L 303.9,114.5 L 306.4,112.2 L 308.8,109.9 L 311.3,107.8 L 313.8,105.6 L 316.3,103.6 L 318.7,101.6 L 321.2,99.7 L 323.7,97.8 L 326.2,96.0 L 328.6,94.2 L 331.1,92.5 L 333.6,90.9 L 336.1,89.3 L 338.5,87.7 L 341.0,86.2 L 343.5,84.8 L 346.0,83.4 L 348.4,82.0 L 350.9,80.7 L 353.4,79.4 L 355.9,78.2 L 358.3,76.9 L 360.8,75.8 L 363.3,74.7 L 365.8,73.6 L 368.2,72.5 L 370.7,71.5 L 373.2,70.5 L 375.7,69.5 L 378.1,68.6 L 380.6,67.7 L 383.1,66.8 L 385.6,65.9 L 388.0,65.1 L 390.5,64.3 L 393.0,63.5 L 395.5,62.8 L 397.9,62.1 L 400.4,61.4 L 402.9,60.7 L 405.4,60.0 L 407.8,59.4 L 410.3,58.8 L 412.8,58.2 L 415.3,57.6 L 417.7,57.0 L 420.2,56.5 L 422.7,55.9 L 425.2,55.4 L 427.6,54.9 L 430.1,54.4 L 432.6,54.0 L 435.1,53.5 L 437.5,53.1 L 440.0,52.6 L 442.5,52.2 L 445.0,51.8 L 447.4,51.4 L 449.9,51.1 L 452.4,50.7 L 454.9,50.4 L 457.3,50.0 L 459.8,49.7 L 462.3,49.4 L 464.8,49.1 L 467.2,48.8 L 469.7,48.5 L 472.2,48.2 L 474.7,47.9 L 477.1,47.6 L 479.6,47.4 L 482.1,47.1 L 484.6,46.9 L 487.0,46.7 L 489.5,46.4 L 492.0,46.2 L 494.5,46.0 L 496.9,45.8 L 499.4,45.6 L 501.9,45.4 L 504.4,45.2 L 506.8,45.0 L 509.3,44.9 L 511.8,44.7 L 514.3,44.5 L 516.7,44.4 L 519.2,44.2 L 521.7,44.1 L 524.2,43.9 L 526.6,43.8 L 529.1,43.6 L 531.6,43.5 L 534.1,43.4 L 536.5,43.2 L 539.0,43.1 L 541.5,43.0 L 544.0,42.9 L 546.4,42.8 L 548.9,42.7 L 551.4,42.6 L 553.9,42.5 L 556.3,42.4 L 558.8,42.3 L 561.3,42.2 L 563.8,42.1 L 566.2,42.0 L 568.7,41.9 L 571.2,41.9 L 573.7,41.8 L 576.1,41.7 L 578.6,41.6 L 581.1,41.6 L 583.6,41.5 L 586.0,41.4 L 588.5,41.4 L 591.0,41.3 L 593.5,41.2 L 595.9,41.2 L 598.4,41.1 L 600.9,41.1 L 603.4,41.0 L 605.8,41.0 L 608.3,40.9 L 610.8,40.9 L 613.3,40.8 L 615.7,40.8 L 618.2,40.7 L 620.7,40.7 L 623.2,40.6 L 625.6,40.6 L 628.1,40.6 L 630.6,40.5 L 633.1,40.5 L 635.5,40.5 L 638.0,40.4 L 640.5,40.4 L 643.0,40.4 L 645.4,40.3 L 647.9,40.3 L 650.4,40.3 L 652.9,40.2 L 655.3,40.2 L 657.8,40.2 L 660.3,40.2 L 662.8,40.1 L 665.2,40.1 L 667.7,40.1 L 670.2,40.1 L 672.7,40.0 L 675.1,40.0 L 677.6,40.0 L 680.1,40.0 L 682.6,40.0 L 685.0,39.9 L 687.5,39.9 L 690.0,39.9" fill="none" stroke="#1f38c5" stroke-width="3"/>
+<line x1="205" y1="304.0" x2="645" y2="40.33305071965367" stroke="#555" stroke-dasharray="6,4" stroke-width="1.5"/>
+<line x1="205" y1="340" x2="205" y2="304.0" stroke="#888" stroke-dasharray="4,4"/>
+<text x="205" y="364" text-anchor="middle" font-size="20" font-family="Times New Roman, serif" font-style="italic">c<tspan dy="5" font-size="14" font-style="normal">1</tspan></text>
+<line x1="645" y1="340" x2="645" y2="40.33305071965367" stroke="#888" stroke-dasharray="4,4"/>
+<text x="645" y="364" text-anchor="middle" font-size="20" font-family="Times New Roman, serif" font-style="italic">c<tspan dy="5" font-size="14" font-style="normal">2</tspan></text>
+<line x1="425" y1="340" x2="425" y2="55.4" stroke="#888" stroke-dasharray="4,4"/>
+<text x="425" y="364" text-anchor="middle" font-size="20" font-family="Times New Roman, serif" font-style="italic">E[c̃]</text>
+<line x1="259.2" y1="340" x2="259.2" y2="172.2" stroke="#888" stroke-dasharray="4,4"/>
+<text x="259.2" y="364" text-anchor="middle" font-size="20" font-family="Times New Roman, serif" font-style="italic">c°</text>
+<line x1="150" y1="55.4" x2="425" y2="55.4" stroke="#888" stroke-dasharray="4,4"/>
+<text x="144" y="61.4" text-anchor="end" font-size="16" font-family="Times New Roman, serif" font-style="italic">u(E[c̃])</text>
+<line x1="150" y1="172.2" x2="425" y2="172.2" stroke="#888" stroke-dasharray="4,4"/>
+<text x="144" y="178.2" text-anchor="end" font-size="16" font-family="Times New Roman, serif" font-style="italic">u(c°)=E[u(c̃)]</text>
+<circle cx="425" cy="172.2" r="5" fill="#c0392b"/>
+<circle cx="425" cy="55.4" r="5" fill="#1f38c5"/>
+<line x1="259.2" y1="204.2" x2="425" y2="204.2" stroke="#c0392b" stroke-width="2.5" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="342.1" y="196.2" text-anchor="middle" font-size="22" fill="#c0392b" font-family="Times New Roman, serif" font-style="italic">Π</text>
+<text x="695" y="330" text-anchor="end" font-size="16" font-family="Hiragino Sans, Yu Gothic, sans-serif">消費水準 <tspan font-family="Times New Roman, serif" font-style="italic" font-size="18">c</tspan></text>
+<text x="158" y="34" font-size="16" font-family="Hiragino Sans, Yu Gothic, sans-serif">効用水準</text>
+
+</g>
+</svg>

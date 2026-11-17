@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 570" width="1240" height="570" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Noto Sans JP, sans-serif">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+  <marker id="aG" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#666"/></marker>
+  <marker id="aB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1f3fbf"/></marker>
+  <marker id="aR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c62828"/></marker>
+</defs>
+
+<!-- arrows -->
+<g fill="none" stroke-width="2.5">
+  <!-- goods -->
+  <line x1="910" y1="185" x2="772" y2="95" stroke="#666" marker-end="url(#aG)"/>
+  <line x1="470" y1="95" x2="332" y2="185" stroke="#666" marker-end="url(#aG)"/>
+  <!-- consumer <-> market -->
+  <line x1="330" y1="250" x2="468" y2="250" stroke="#c62828" marker-end="url(#aR)"/>
+  <line x1="470" y1="320" x2="332" y2="320" stroke="#1f3fbf" marker-end="url(#aB)"/>
+  <!-- firm <-> market -->
+  <line x1="910" y1="250" x2="772" y2="250" stroke="#1f3fbf" marker-end="url(#aB)"/>
+  <line x1="770" y1="320" x2="908" y2="320" stroke="#c62828" marker-end="url(#aR)"/>
+  <!-- dividends -->
+  <path d="M1060,400 V470 H180 V402" stroke="#c62828" stroke-dasharray="8 5" marker-end="url(#aR)"/>
+</g>
+
+<!-- boxes -->
+<g stroke-width="2">
+  <rect x="470" y="15" width="300" height="140" rx="8" fill="#f4f4f4" stroke="#555"/>
+  <rect x="30" y="150" width="300" height="250" rx="8" fill="#fff3e0" stroke="#e67e22"/>
+  <rect x="470" y="205" width="300" height="160" rx="8" fill="#eef1fb" stroke="#1f3fbf"/>
+  <rect x="910" y="150" width="300" height="250" rx="8" fill="#edf7ee" stroke="#2e7d32"/>
+</g>
+
+<g text-anchor="middle" fill="#111">
+  <!-- goods -->
+  <text x="620" y="47" font-size="20" font-weight="bold">財 <tspan font-family="Times New Roman, serif" font-weight="normal" font-style="italic">m</tspan><tspan font-family="Times New Roman, serif" font-weight="normal"> ∈ {1, 2, …, </tspan><tspan font-family="Times New Roman, serif" font-weight="normal" font-style="italic">M</tspan><tspan font-family="Times New Roman, serif" font-weight="normal">}</tspan></text>
+  <text x="620" y="77" font-size="14" fill="#555">正の有限量が存在し，無限に分割可能</text>
+  <text x="620" y="101" font-size="14" fill="#555">消費者は互いに財を交換できる</text>
+  <text x="620" y="133" font-size="14" fill="#111" font-weight="bold">消費の時間が異なれば異なる財</text>
+  <!-- consumer -->
+  <text x="180" y="185" font-size="22" font-weight="bold">消費者 <tspan font-family="Times New Roman, serif" font-weight="normal" font-style="italic">i</tspan><tspan font-family="Times New Roman, serif" font-weight="normal"> ∈ {1, 2, …, </tspan><tspan font-family="Times New Roman, serif" font-weight="normal" font-style="italic">I</tspan><tspan font-family="Times New Roman, serif" font-weight="normal">}</tspan></text>
+  <text x="180" y="217" font-size="14" fill="#555">財を消費して欲求を満たす</text>
+  <text x="180" y="250" font-size="15">初期賦存量（消費財・証券）</text>
+  <text x="180" y="273" font-size="14" fill="#555">↓ 時価</text>
+  <text x="180" y="298" font-size="15" font-weight="bold">初期富 ＝ 予算</text>
+  <text x="180" y="321" font-size="14" fill="#555">↓</text>
+  <text x="180" y="345" font-size="15">消費 ＋ 貯蓄</text>
+  <text x="180" y="380" font-size="13" fill="#555">初期賦存量は労働所得・相続などによる</text>
+  <!-- market -->
+  <text x="620" y="250" font-size="20" font-weight="bold">金融資産市場</text>
+  <text x="620" y="282" font-size="15">証券を売買する市場</text>
+  <text x="620" y="320" font-size="14" fill="#555">証券 ＝ 金融資産</text>
+  <text x="620" y="343" font-size="13" fill="#555">（配当により財を購入する資金を生む）</text>
+  <!-- firm -->
+  <text x="1060" y="185" font-size="22" font-weight="bold">企業 <tspan font-family="Times New Roman, serif" font-weight="normal" font-style="italic">j</tspan><tspan font-family="Times New Roman, serif" font-weight="normal"> ∈ {1, 2, …, </tspan><tspan font-family="Times New Roman, serif" font-weight="normal" font-style="italic">J</tspan><tspan font-family="Times New Roman, serif" font-weight="normal">}</tspan></text>
+  <text x="1060" y="235" font-size="15">利潤の最大化</text>
+  <text x="1060" y="263" font-size="15">財を生産</text>
+  <text x="1060" y="310" font-size="15">証券を発行して</text>
+  <text x="1060" y="332" font-size="15">事業のための資金を調達</text>
+</g>
+
+<!-- edge labels -->
+<g font-size="14" text-anchor="middle">
+  <text x="868" y="128" fill="#555">生産</text>
+  <text x="372" y="128" fill="#555">消費</text>
+  <text x="400" y="240" fill="#c62828">貯蓄（資金）</text>
+  <text x="400" y="310" fill="#1f3fbf">証券</text>
+  <text x="840" y="240" fill="#1f3fbf">証券を発行</text>
+  <text x="840" y="310" fill="#c62828">資金（貸付）</text>
+  <text x="620" y="495" fill="#c62828">配当：利潤を証券の保有比率に応じて分配</text>
+</g>
+
+<!-- legend -->
+<g font-size="13" fill="#333">
+  <line x1="390" y1="545" x2="430" y2="545" stroke="#666" stroke-width="2.5"/><text x="438" y="550">財の流れ</text>
+  <line x1="540" y1="545" x2="580" y2="545" stroke="#1f3fbf" stroke-width="2.5"/><text x="588" y="550">証券の流れ</text>
+  <line x1="700" y1="545" x2="740" y2="545" stroke="#c62828" stroke-width="2.5"/><text x="748" y="550">資金の流れ</text>
+</g>
+</svg>
